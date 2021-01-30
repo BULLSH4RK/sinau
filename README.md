@@ -1,2 +1,3 @@
 # sinau
-cuman nyoba
+coba ae dulu
+
